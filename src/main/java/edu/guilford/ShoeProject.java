@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Hello world!
  *
  */
-public class App {
+public class ShoeProject {
     public static void main(String[] args) {
         // create an ArrayList of Shoe objects
         ArrayList<Shoe> shoeCollection = new ArrayList<Shoe>();
