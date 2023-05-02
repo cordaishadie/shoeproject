@@ -1,0 +1,17 @@
+ // instantiate a new Sneaker object
+        Sneaker sneaker1 = new Sneaker("Nike", "Black", 10.5, "Leather", 2, 
+            1, true, "Lace", "Rubber", "Running");
+        // add sneaker 1 to an array of shoes
+        shoeCollection[0] = sneaker1;
+
+        // instantiate a new Boot object
+        Boot boot1 = new Boot("UGG", "Brown", 8, "Suede", 0, 0, 
+        false, true, true);
+        // add boot1 to an array of shoes
+        shoeCollection[1] = boot1;
+
+        // instantiate a new Sandal object
+        Sandal sandal1 = new Sandal("Birkenstock", "Brown", 8, "Leather", 2, 
+        0, false, "Thong", false,  "Wedge");
+        // add sandal1 to an array of shoes
+        shoeCollection[2] = sandal1;
