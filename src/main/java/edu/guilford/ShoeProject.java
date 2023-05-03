@@ -56,7 +56,7 @@ public class ShoeProject {
 
         
 
-        /*  *sort the shoeCollection array using the compareTo() method*
+        //  *sort the shoeCollection array using the compareTo() method*
         System.out.println("\nSorting the shoeCollection array using the compareTo() method...");
         // sort the shoeCollection array using the compareTo() method
         for (int i = 0; i < shoeCollection.size(); i++) {
@@ -72,7 +72,7 @@ public class ShoeProject {
         System.out.println("The sorted shoeCollection array is: \n");
         for (int i = 0; i < shoeCollection.size(); i++) {
             System.out.println(shoeCollection.get(i).toString());
-        } */
+        } 
 
 
         
